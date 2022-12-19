@@ -1,0 +1,11 @@
+Mark Abendroth Final Submission User Manual
+V 1.0.0
+
+This program is a tkinter GUI application built using Python. It will welcome the user with a main window that has two buttons. One button will exit the program, 
+while the other will "start" the process of generating a password for the user. Once, clicked, it opens up a seperate window to ask the user what they would 
+like the desired length of the password to be. This should be entered as a positive integer. Once entered, the program takes the input of password length and uses it to generate a password.
+
+This newly generated password will show in a third, final window. This last window includes a button that will generate a new password on the same window, 
+without going through the entire process of before. When the user is satisfied and has sucessfully recieved a password, they may close the program.
+
+
